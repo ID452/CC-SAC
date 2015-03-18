@@ -1,0 +1,12 @@
+[Event ""]
+[Site ""]
+[Date "2015.03.15"]
+[Round ""]
+[White "GNU Chess"]
+[Black "GNU Chess 6.2.1"]
+[WhiteELO "0"]
+[BlackELO "0"]
+[Result "1-0"]
+
+Rxc7 1-0 {Black resigns}
+
