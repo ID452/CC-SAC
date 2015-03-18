@@ -1,5 +1,5 @@
-##This Software is not supossed to made public, any disclosure, in partial or as whole prohipted
-##
+##This Software is not supossed to made public, any disclosure, in partial or as whole is strictly forbidden
+##);->z
 
 
 import socket, random, sys
